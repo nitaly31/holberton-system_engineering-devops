@@ -25,4 +25,5 @@ All the following folders are projects carried out during studies:
 ### ✒️ Author
 ***
 *Holberton School Student*
+
 Geraldine Meneses - [nitaly31](https://github.com/nitaly31)
