@@ -1,6 +1,6 @@
 # Project 0x09. Web infrastructure design 📚
 
-### Learning Objectives
+### 📌 Learning Objectives
 ***
 * You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects.
 * You must be able to explain what each component is doing
@@ -16,12 +16,12 @@
 Mandatory:
 | Files | Description |
 | --- | --- |
-| [0-simple_web_stack]() | Web Infrastructure Design with a LAMP stack. This contains: 1 server, 1 web server, 1 application server, 1 database and 1 domain name. |
-| [1-distributed_web_infrastructure]() | Web Infrastructure Design, based on `0-simple_web_stack` that contains some additional components: 1 server, 1 web server, 1 application server, 1 load-balancer, 1 set of application files, 1 database |
-| [2-secured_and_monitored_web_infrastructure]() | Web Infrastructure Design, based on `1-distributed_web_infrastructure` that contains some additional components: 3 firewalls, 1 SSL certificate, 3 monitoring clients. |
-| [3-scale_up]() | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer. |
+| [0-simple_web_stack](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/0-simple_web_stack) | Web Infrastructure Design with a LAMP stack. This contains: 1 server, 1 web server, 1 application server, 1 database and 1 domain name. |
+| [1-distributed_web_infrastructure](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/1-distributed_web_infrastructure) | Web Infrastructure Design, based on `0-simple_web_stack` that contains some additional components: 1 server, 1 web server, 1 application server, 1 load-balancer, 1 set of application files, 1 database |
+| [2-secured_and_monitored_web_infrastructure](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure) | Web Infrastructure Design, based on `1-distributed_web_infrastructure` that contains some additional components: 3 firewalls, 1 SSL certificate, 3 monitoring clients. |
+| [3-scale_up](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/3-scale_up) | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer. |
 
-### Autor
+### ✒️ Autor
 ***
 *Holberton School Students*
 
