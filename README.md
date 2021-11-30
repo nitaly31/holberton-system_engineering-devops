@@ -21,9 +21,9 @@ All the following folders are projects carried out during studies:
 | [0x05-processes_and_signals](https://github.com/nitaly31/holberton-system_engineering-devops/tree/master/0x05-processes_and_signals) | It aims to learn about PID, processes and commands that handles them (`ps`, `pgrep`, `pkill`, `kill`, etc) in Bash. |
 | [0x06-regular_expressions](https://github.com/nitaly31/holberton-system_engineering-devops/tree/master/0x06-regular_expressions) | It aims to learn about how to build a regular expression. |
 | [0x07-networking_basics](https://github.com/nitaly31/holberton-system_engineering-devops/tree/master/0x07-networking_basics) | It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet and TCP/UDP. |
-
+|[0x09-web_infrastructure_design](https://github.com/nitaly31/holberton-system_engineering-devops/tree/master/command_line_for_the_win)| It aims to learn about how to design a Web Infrastructure. |
 ### ✒️ Author
 ***
 *Holberton School Student*
 
-Geraldine Meneses - [nitaly31](https://github.com/nitaly31)
+Geraldine Meneses - [GitHub](https://github.com/nitaly31) | [LinkedIn](https://www.linkedin.com/in/geraldine-meneses/)
