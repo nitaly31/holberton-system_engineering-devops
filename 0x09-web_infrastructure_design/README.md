@@ -21,7 +21,7 @@ Mandatory:
 | [2-secured_and_monitored_web_infrastructure](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/2-secured_and_monitored_web_infrastructure) | Web Infrastructure Design, based on `1-distributed_web_infrastructure` that contains some additional components: 3 firewalls, 1 SSL certificate, 3 monitoring clients. |
 | [3-scale_up](https://github.com/nitaly31/holberton-system_engineering-devops/blob/master/0x09-web_infrastructure_design/3-scale_up) | Web Infrastructure Design, based on `2-secured_and_monitored_web_infrastructure` that contains some additional components: 1 server, 1 load-balancer. |
 
-### ✒️ Autor
+### ✒️ Autors
 ***
 *Holberton School Students*
 
